@@ -1,0 +1,9 @@
+title,author,description,link,tags
+Color palettes for R Pirates from yarrr package,Nathaniel Phillips,"The piratepal function rom parrr package can return multiple nice color palettes, and once you find a palette you like, you can return the colors as a vector",https://cran.r-project.org/web/packages/yarrr/vignettes/piratepal.html,yarrr
+Color palettes from ghibli package,"Ewen Henderson, Danielle Desrosiers","Do you like anime movies from ghibli studio? This ghibli package provides 9 different palettes with a light, medium and dark variant for each",https://ewenme.github.io/ghibli/,"ghibli, ggplot2"
+Color palettes from jcolors package,Jared Huling,"A selection of ggplot2 color palettes that Jared likes, it contains both discrete and continuous palettes",https://jaredhuling.org/jcolors/,"jcolors, ggplot2"
+Color palettes from lisa package,Tyler Littlefield,A color palatte R package that contains 128 palettes from Color Lisa,https://lisa-pkg.netlify.com/,lisa
+Color palette helper,Gregor Aisch,"Not an R package, but can help you to create your own palette","https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1",website
+Color palettes from paletteer package,Emil Hvitfeldt,"Tired of trying different packages, try this comprehensive collection of color palettes in R",https://emilhvitfeldt.github.io/paletteer/,colors
+Scientific Journal and Sci-Fi Themed,"Nan Xiao, Miaozhu Li","ggsci offers a collection of high-quality color palettes inspired by colors used in scientific journals, data visualization libraries, science fiction movies, and TV shows. ",https://nanx.me/ggsci/articles/ggsci.html,"ggplot, academia"
+colourpicker,Dean Attali,A colour picker tool for Shiny and for selecting colours in plots (in R,https://github.com/daattali/colourpicker,"colors, shiny"
